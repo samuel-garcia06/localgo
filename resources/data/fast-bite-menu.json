@@ -1,0 +1,19 @@
+{
+  "restaurant": {
+    "name": "Urban Bites",
+    "tagline": "Hamburguesas de autor, pizzas artesanales y kebab gourmet. Ingredientes premium. Entrega en casa en 20 minutos.",
+    "hero_image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=1600&q=80",
+    "rating": 4.9,
+    "reviews": 2173,
+    "eta": "20-30 min",
+    "delivery_fee_label": "2,99 €",
+    "delivery_fee_value": 2.99,
+    "minimum_order": "Pedido mínimo 12,00 €",
+    "address": "Calle Fuencarral 42, Madrid",
+    "hero_note": "Abierto ahora · Hamburguesas premium, pizzas artesanales y kebab",
+    "service_modes": [
+      "Entrega a domicilio",
+      "Recogida en local"
+    ]
+  }
+}
